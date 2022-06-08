@@ -1,0 +1,15 @@
+newmtl metal10_specular
+map_Kd metal10_specular.png
+Kd 1 1 1
+d 1
+
+newmtl M_Wood3
+map_Kd Wood3.tga
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl M_Wood2
+map_Kd Wood2.tga
+Kd 1.0 1.0 1.0
+d 1.0
+
